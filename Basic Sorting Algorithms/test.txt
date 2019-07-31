@@ -1,0 +1,14 @@
+ The timing tests are run for array sizes of 100 elements, 1,000 elements, and 10,000 elements.
+ 
+ 1.000 elements:
+                -Selection Sort: 40.0576 --- 1
+                -Bubble sort:    500.72
+                -Insertion sort: 871.2528
+ 
+ 10.000 elements:
+                -Selection Sort: 2864.1184 --- 1
+                -Bubble sort:    53607.0832
+                -Insertion sort: 84751.8672
+                
+ /**********----------SUMMARY----------**********/
+ All of these algorithms are fairly easy to implement and they all work well with small data sets 
